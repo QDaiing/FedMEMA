@@ -10,6 +10,9 @@ cl_train_glb.py - training code for server
 
 fl_train_clsPasData_async.py - training code for federated learning (our method)
 
+### Data Preparation
+Get Brats2020 dataset [here](https://www.med.upenn.edu/cbica/brats2020/data.html) and refer to [RFNet](https://github.com/dyh127/RFNet).
+
 ### Usage
 1. Clone the repository:
 
